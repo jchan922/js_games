@@ -1,0 +1,11 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+canvas {
+    /* Canvas width x hieght needs to be implemented in the main.js file */
+    background: #eee;
+    display: block;
+    margin: 25px auto 0 auto;
+}
